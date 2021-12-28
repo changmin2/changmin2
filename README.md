@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 My Blog : https://changmin2.com/
 <!--
 **changmin2/changmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
