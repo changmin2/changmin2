@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 My Blog : https://changmin2.com/
-- <a href="changmin2.com" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=file:///C:/Users/dlckd/Downloads/blogger.svg&logoColor=로고색상"/></a>
+
 <!--
 **changmin2/changmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
