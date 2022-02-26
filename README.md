@@ -12,7 +12,8 @@
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 </a>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changmin2&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changmin2&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+- 📫 How to reach me: 
 <!--
 **changmin2/changmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
