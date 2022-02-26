@@ -13,7 +13,7 @@
 </a>
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changmin2&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
-- 📫 How to reach me: 
+- 📫 How to reach me: [![NAVER Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naer&logoColor=white&link=mailto:dlckdals9467@naver.com)](mailto:dlckals9467@naver.com)
 <!--
 **changmin2/changmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
