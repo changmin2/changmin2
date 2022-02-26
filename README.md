@@ -3,7 +3,6 @@
 - 🌱 My Blog : https://changmin2.com/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangmin2&count_bg=%2343433D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!--
 **changmin2/changmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
