@@ -10,8 +10,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changmin2&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals56)](https://solved.ac/dlckdals56/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changmin2&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals56)](https://solved.ac/dlckdals56/)
 <br/>
 - 📫 How to reach me: [![NAVER Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naer&logoColor=white&link=mailto:dlckdals9467@naver.com)](mailto:dlckals9467@naver.com)
 
