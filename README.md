@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome👯&fontSize=70)
 ### Hi there 👋
 - 🌱 My Blog : https://changmin2.com/
+- 📫 Developer Email : dlckdals9467@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangmin2&count_bg=%232C2D2B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visited+%28Today+%2F+Total%29&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://changmin2.com/)
